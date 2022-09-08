@@ -1,3 +1,4 @@
+import Link from 'next/link';
 const inputarefa = document.querySelector(".tarefas");
 const botao = document.querySelector(".buttonaddtarefa");
 const tarefa = document.querySelector(".listatarefas");
